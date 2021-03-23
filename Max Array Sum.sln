@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Array Sum", "Max Array Sum\Max Array Sum.csproj", "{4A3B662C-45BB-40A7-B1BB-CBBD1404C58F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A3B662C-45BB-40A7-B1BB-CBBD1404C58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3B662C-45BB-40A7-B1BB-CBBD1404C58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3B662C-45BB-40A7-B1BB-CBBD1404C58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3B662C-45BB-40A7-B1BB-CBBD1404C58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A89D93-9415-451B-805D-7545DBF6E2F6}
+	EndGlobalSection
+EndGlobal

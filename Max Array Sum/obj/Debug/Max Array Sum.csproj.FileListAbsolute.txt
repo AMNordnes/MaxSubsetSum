@@ -1,0 +1,14 @@
+C:\Users\Arthur Desktop\source\repos\Max Array Sum\Max Array Sum\bin\Debug\Max Array Sum.exe.config
+C:\Users\Arthur Desktop\source\repos\Max Array Sum\Max Array Sum\bin\Debug\Max Array Sum.exe
+C:\Users\Arthur Desktop\source\repos\Max Array Sum\Max Array Sum\bin\Debug\Max Array Sum.pdb
+C:\Users\Arthur Desktop\source\repos\Max Array Sum\Max Array Sum\obj\Debug\Max Array Sum.csprojResolveAssemblyReference.cache
+C:\Users\Arthur Desktop\source\repos\Max Array Sum\Max Array Sum\obj\Debug\Max Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Desktop\source\repos\Max Array Sum\Max Array Sum\obj\Debug\Max Array Sum.exe
+C:\Users\Arthur Desktop\source\repos\Max Array Sum\Max Array Sum\obj\Debug\Max Array Sum.pdb
+C:\Users\Arthur Desktop\Source\Repos\MaxSubsetSum\Max Array Sum\bin\Debug\Max Array Sum.exe.config
+C:\Users\Arthur Desktop\Source\Repos\MaxSubsetSum\Max Array Sum\bin\Debug\Max Array Sum.exe
+C:\Users\Arthur Desktop\Source\Repos\MaxSubsetSum\Max Array Sum\bin\Debug\Max Array Sum.pdb
+C:\Users\Arthur Desktop\Source\Repos\MaxSubsetSum\Max Array Sum\obj\Debug\Max Array Sum.csprojResolveAssemblyReference.cache
+C:\Users\Arthur Desktop\Source\Repos\MaxSubsetSum\Max Array Sum\obj\Debug\Max Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Desktop\Source\Repos\MaxSubsetSum\Max Array Sum\obj\Debug\Max Array Sum.exe
+C:\Users\Arthur Desktop\Source\Repos\MaxSubsetSum\Max Array Sum\obj\Debug\Max Array Sum.pdb
